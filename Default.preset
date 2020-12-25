@@ -153,8 +153,8 @@ SetVisualFXPerformance          # SetVisualFXAppearance
 # AddENKeyboard                 # RemoveENKeyboard
 # EnableNumlock                 # DisableNumlock
 # DisableEnhPointerPrecision    # EnableEnhPointerPrecision
-# SetSoundSchemeNone            # SetSoundSchemeDefault
-# DisableStartupSound           # EnableStartupSound
+ SetSoundSchemeNone            # SetSoundSchemeDefault
+ DisableStartupSound           # EnableStartupSound
 # DisableChangingSoundScheme    # EnableChangingSoundScheme
 # EnableVerboseStatus           # DisableVerboseStatus
 DisableF1HelpKey                # EnableF1HelpKey
@@ -185,21 +185,21 @@ ShowThisPCOnDesktop             # HideThisPCFromDesktop
 # ShowNetworkOnDesktop          # HideNetworkFromDesktop
 # HideDesktopIcons              # ShowDesktopIcons
 # ShowBuildNumberOnDesktop      # HideBuildNumberFromDesktop
-HideDesktopFromThisPC           # ShowDesktopInThisPC
-# HideDesktopFromExplorer       # ShowDesktopInExplorer
-HideDocumentsFromThisPC         # ShowDocumentsInThisPC
-# HideDocumentsFromExplorer     # ShowDocumentsInExplorer
-HideDownloadsFromThisPC         # ShowDownloadsInThisPC
-# HideDownloadsFromExplorer     # ShowDownloadsInExplorer
-HideMusicFromThisPC             # ShowMusicInThisPC
-# HideMusicFromExplorer         # ShowMusicInExplorer
-HidePicturesFromThisPC          # ShowPicturesInThisPC
-# HidePicturesFromExplorer      # ShowPicturesInExplorer
-HideVideosFromThisPC            # ShowVideosInThisPC
-# HideVideosFromExplorer        # ShowVideosInExplorer
-Hide3DObjectsFromThisPC         # Show3DObjectsInThisPC
-# Hide3DObjectsFromExplorer     # Show3DObjectsInExplorer
-# HideNetworkFromExplorer       # ShowNetworkInExplorer
+#HideDesktopFromThisPC           ShowDesktopInThisPC
+# HideDesktopFromExplorer        ShowDesktopInExplorer
+#HideDocumentsFromThisPC          ShowDocumentsInThisPC
+# HideDocumentsFromExplorer      ShowDocumentsInExplorer
+# HideDownloadsFromThisPC        ShowDownloadsInThisPC
+# HideDownloadsFromExplorer      ShowDownloadsInExplorer
+# HideMusicFromThisPC            ShowMusicInThisPC
+# HideMusicFromExplorer          ShowMusicInExplorer
+# HidePicturesFromThisPC         ShowPicturesInThisPC
+# HidePicturesFromExplorer       ShowPicturesInExplorer
+# HideVideosFromThisPC           ShowVideosInThisPC
+# HideVideosFromExplorer         ShowVideosInExplorer
+# Hide3DObjectsFromThisPC        Show3DObjectsInThisPC
+# Hide3DObjectsFromExplorer      Show3DObjectsInExplorer
+# HideNetworkFromExplorer        ShowNetworkInExplorer
 # HideIncludeInLibraryMenu      # ShowIncludeInLibraryMenu
 # HideGiveAccessToMenu          # ShowGiveAccessToMenu
 # HideShareMenu                 # ShowShareMenu
@@ -252,7 +252,7 @@ RemoveFaxPrinter                # AddFaxPrinter
 # EnableAudio                   # DisableAudio
 
 ### Unpinning ###
-# UnpinStartMenuTiles
+ UnpinStartMenuTiles
 # UnpinTaskbarIcons
 
 ### Auxiliary Functions ###
